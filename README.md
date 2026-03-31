@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=28&duration=3000&pause=1000&color=4FACFE&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sumit+Purnapatre+%F0%9F%91%8B;Quietly+wiring+intelligence...;...one+smart+system+at+a+time." />
+<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=24&duration=3000&pause=1000&color=4FACFE&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sumit+Purnapatre+%F0%9F%91%8B;Quietly+wiring+intelligence...;...one+smart+system+at+a+time." />
 
 ![Visitors](https://komarev.com/ghpvc/?username=sumitp07&style=flat-square&color=4facfe&label=Profile+Views)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-purnapatre-b2669a326)&nbsp;
@@ -12,19 +12,12 @@
 
 ---
 
-```yaml
-name       : Sumit Purnapatre
-education  : B.Tech — Semester IV
-focus      : AI / ML  +  IoT
-status     : Building. Learning. Grinding.
-location   : India 🇮🇳
-goal       : Top-tier tech company
-```
+B.Tech Student · Sem IV · CSN, MH 🇮🇳
 
-- 🔭 Solving **DSA in Java** every single day
+- 🔭 Solving **DSA in Java** every day
 - 🌱 Learning **JavaScript** & the **MERN Stack**
-- 🤖 Passionate about **Smart Devices & Automation**
-- ✨ Quiet but determined — building toward something big
+- 🤖 Into **AI / ML** and **IoT**
+- ✨ Quiet but determined
 
 ---
 
@@ -51,15 +44,6 @@ goal       : Top-tier tech company
 ![VS Code](https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>
-
----
-
-### Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [Developer Portfolio](https://github.com/sumitp07) | Personal portfolio built from scratch | HTML · CSS |
-| Coming soon... | Something intelligent is being built | AI · IoT |
 
 ---
 
@@ -102,7 +86,5 @@ goal       : Top-tier tech company
 ---
 
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&size=13&duration=1&pause=99999&color=4FACFE&center=true&vCenter=true&repeat=false&width=600&lines=Thanks+for+visiting+%E2%80%94+let%27s+build+something+intelligent+together." />
-
 </div>

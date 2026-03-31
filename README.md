@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-IVth%20Sem-0F6E56?style=flat-square&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/B.Tech-0F6E56?style=flat-square&logo=graduation-cap&logoColor=white" />
   <img src="https://img.shields.io/badge/AI%2FML-Learner-185FA5?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/IoT-Explorer-854F0B?style=flat-square&logo=raspberry-pi&logoColor=white" />
   <img src="https://img.shields.io/badge/DSA-Java-993C1D?style=flat-square&logo=openjdk&logoColor=white" />

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=24&duration=3000&pause=1000&color=4FACFE&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sumit+Purnapatre+%F0%9F%91%8B;Quietly+wiring+intelligence...;...one+smart+system+at+a+time." />
+<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=24&duration=3000&pause=1000&color=4FACFE&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sumit+P+%F0%9F%91%8B;Quietly+wiring+intelligence...;...one+smart+system+at+a+time." />
 
 ![Visitors](https://komarev.com/ghpvc/?username=sumitp07&style=flat-square&color=4facfe&label=Profile+Views)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-purnapatre-b2669a326)&nbsp;
@@ -34,14 +34,14 @@ B.Tech Student · Sem IV · CSN, MH 🇮🇳
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>
 

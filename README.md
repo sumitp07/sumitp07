@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=24&duration=3000&pause=1000&color=4FACFE&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sumit+P+%F0%9F%91%8B;Quietly+wiring+intelligence...;...one+smart+system+at+a+time." />
+<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=24&duration=3000&pause=1000&color=4FACFE&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sumit+Purnapatre+%F0%9F%91%8B;Quietly+wiring+intelligence...;...one+smart+system+at+a+time." />
 
 ![Visitors](https://komarev.com/ghpvc/?username=sumitp07&style=flat-square&color=4facfe&label=Profile+Views)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-purnapatre-b2669a326)&nbsp;
@@ -12,9 +12,9 @@
 
 ---
 
-B.Tech Student · Second Year · CSN, MH 🇮🇳
+B.Tech Student · Sem IV · CSN, MH 🇮🇳
 
-- 🔭 Solving **DSA** 
+- 🔭 Solving **DSA in Java** 
 - 🌱 Learning **JavaScript** & the **MERN Stack**
 - 🤖 Into **AI / ML** and **IoT**
 - ✨ Quiet but determined
@@ -49,13 +49,7 @@ B.Tech Student · Second Year · CSN, MH 🇮🇳
 
 ### Stats
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sumitp07&show_icons=true&hide_border=true&bg_color=00000000&title_color=4facfe&icon_color=4facfe&text_color=858585&count_private=true" height="150"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitp07&layout=compact&hide_border=true&bg_color=00000000&title_color=4facfe&text_color=858585" height="150"/>
-
-</div>
 
 <div align="center">
 

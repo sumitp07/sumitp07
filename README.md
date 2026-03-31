@@ -4,7 +4,8 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Sumit%20Purnapatre&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20Student%20%7C%20AI%2FML%20%26%20IoT%20Explorer&descAlignY=58&descColor=d0f0ff&animation=fadeIn" />
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=1&pause=99999&color=4FACFE&background=0D1117&center=true&vCenter=true&repeat=false&width=1200&height=120&lines=Hi+%F0%9F%91%8B+I'm+Sumit+Purnapatre" />
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=99999&color=00F2FE&background=0D1117&center=true&vCenter=true&repeat=false&width=1200&height=50&lines=B.Tech+Student+%7C+AI%2FML+%26+IoT+Explorer+%7C+Building+Smart+Systems" />
 
 </div>
 
@@ -66,7 +67,7 @@ goal       : Top-tier tech company
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Quietly%20wiring%20intelligence%20into%20the%20world%20%E2%80%94%20one%20smart%20system%20at%20a%20time.&author=Sumit%20Purnapatre" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Quietly%20wiring%20intelligence%20into%20the%20world%20%E2%80%94%20one%20smart%20system%20at%20a%20time.&author=Sumit%20P" />
 
 </div>
 
@@ -219,6 +220,6 @@ goal       : Top-tier tech company
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=99999&color=4FACFE&background=0D1117&center=true&vCenter=true&repeat=false&width=1200&height=60&lines=Thanks+for+visiting!+%F0%9F%91%8B+Let's+build+something+intelligent+together." />
 
 </div>

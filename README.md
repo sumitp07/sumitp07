@@ -136,8 +136,8 @@ goal       : Top-tier tech company
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SumitP07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4facfe&icon_color=4facfe&text_color=c9d1d9&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitP07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4facfe&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sumitp07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4facfe&icon_color=4facfe&text_color=c9d1d9&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitp07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4facfe&text_color=c9d1d9" height="165"/>
 
 </div>
 

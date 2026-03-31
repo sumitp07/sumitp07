@@ -14,7 +14,7 @@
 
 B.Tech Student · Sem IV · CSN, MH 🇮🇳
 
-- 🔭 Solving **DSA in Java** 
+- 🔭 Solving **DSA in Java** every day
 - 🌱 Learning **JavaScript** & the **MERN Stack**
 - 🤖 Into **AI / ML** and **IoT**
 - ✨ Quiet but determined

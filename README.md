@@ -1,6 +1,6 @@
 <!-- Header - Animated Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Sumit+Purnapatre+%F0%9F%91%8B;B.Tech+Student+%7C+Sem+IV;AI+%2F+ML+%2B+IoT+Explorer;Quietly+wiring+intelligence...;...one+smart+system+at+a+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Sumit+Purnapatre+%F0%9F%91%8B;B.Tech+Student+%7C+Second+Year;AI+%2F+ML+%2B+IoT+Explorer;Quietly+wiring+intelligence...;...one+smart+system+at+a+time." alt="Typing SVG" />
 </p>
 
 <!-- Visitor Counter -->

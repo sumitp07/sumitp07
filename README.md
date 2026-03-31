@@ -14,7 +14,7 @@
 
 B.Tech Student · Sem IV · CSN, MH 🇮🇳
 
-- 🔭 Solving **DSA in Java** every day
+- 🔭 Solving **DSA in Java** 
 - 🌱 Learning **JavaScript** & the **MERN Stack**
 - 🤖 Into **AI / ML** and **IoT**
 - ✨ Quiet but determined
@@ -88,3 +88,4 @@ B.Tech Student · Sem IV · CSN, MH 🇮🇳
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&size=13&duration=1&pause=99999&color=4FACFE&center=true&vCenter=true&repeat=false&width=600&lines=Thanks+for+visiting+%E2%80%94+let%27s+build+something+intelligent+together." />
 </div>
+

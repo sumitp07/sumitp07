@@ -1,154 +1,253 @@
-<!-- Header - Animated Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Sumit+Purnapatre+%F0%9F%91%8B;B.Tech+Student+%7C+Second+Year;AI+%2F+ML+%2B+IoT+Explorer;Quietly+wiring+intelligence...;...one+smart+system+at+a+time." alt="Typing SVG" />
-</p>
+<!-- ═══════════════════════════════════════════════════ -->
+<!--              ANIMATED WAVE HEADER BANNER           -->
+<!-- ═══════════════════════════════════════════════════ -->
 
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SumitP07&style=flat-square&color=00FF41&label=VISITORS" />
-</p>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Sumit%20Purnapatre&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20Student%20%7C%20AI%2FML%20%26%20IoT%20Explorer&descAlignY=58&descColor=d0f0ff&animation=fadeIn" />
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                 ANIMATED TYPING                    -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=4FACFE&center=true&vCenter=true&width=620&lines=Quietly+wiring+intelligence+into+the+world...;...one+smart+system+at+a+time.;B.Tech+Student+%7C+Sem+IV;AI+%2F+ML+%2B+IoT+Enthusiast;DSA+Grinder+in+Java+%F0%9F%94%A5;Always+Learning.+Always+Building." alt="Typing SVG" />
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                 VISITOR + BADGES                   -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<div align="center">
+
+![Visitors](https://komarev.com/ghpvc/?username=SumitP07&style=flat-square&color=4facfe&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/SumitP07?style=flat-square&color=4facfe&labelColor=0d1117&label=Followers)
+![Stars](https://img.shields.io/github/stars/SumitP07?style=flat-square&color=4facfe&labelColor=0d1117&label=Stars)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                   ABOUT ME                         -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<img align="right" width="340" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623632622f313534313538303631313632342d5445363451474b524a4738535741495553374e462f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a73767d3d2e676966" />
+
+### 👨‍💻 About Me
+
+```yaml
+name       : Sumit Purnapatre
+education  : B.Tech — Semester IV
+focus      : AI / ML  +  IoT
+status     : Building. Learning. Grinding.
+location   : India 🇮🇳
+goal       : Top-tier tech company
+```
+
+- 🔭 Currently solving **DSA in Java** every day
+- 🌱 Learning **JavaScript** & the **MERN Stack**
+- 🤖 Passionate about **Smart Devices & Automation**
+- ✨ Quiet but determined — building toward something big
+- 💬 Ask me about **Python, Java, AI/ML, IoT**
+- 📫 Reach me at **sumitpurnapatre@gmail.com**
+
+<br clear="right"/>
 
 ---
 
-<!-- Terminal Style About -->
-```bash
-┌──(sumit㉿github)-[~/about-me]
-└─$ cat profile.txt
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                   QUOTE / MOTTO                    -->
+<!-- ═══════════════════════════════════════════════════ -->
 
-  Name     : Sumit Purnapatre
-  Role     : B.Tech Student (Sem IV) | AI/ML & IoT Learner
-  Status   : [ ACTIVE ] — Building. Learning. Grinding.
-  Location : India
-  Mission  : Quietly wiring intelligence into the world —
-             one smart system at a time.
-```
+<div align="center">
 
-```bash
-┌──(sumit㉿github)-[~/about-me]
-└─$ cat currently.txt
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Quietly%20wiring%20intelligence%20into%20the%20world%20%E2%80%94%20one%20smart%20system%20at%20a%20time.&author=Sumit%20Purnapatre" />
 
-  > Solving DSA problems daily in Java
-  > Learning JavaScript & the MERN Stack
-  > Exploring AI/ML & IoT integrations
-  > Open to collaborations & open source
-```
+</div>
 
 ---
 
-<!-- Tech Stack -->
-### `~/tech-stack`
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                   TECH STACK                       -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+### 🛠️ Tech Stack
+
+<div align="center">
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-f89820?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4facfe?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **AI / ML**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **Frameworks & Tools**
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-4facfe?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
-<!-- Projects -->
-### `~/projects`
+<!-- ═══════════════════════════════════════════════════ -->
+<!--               SKILL PROGRESS BARS                  -->
+<!-- ═══════════════════════════════════════════════════ -->
 
-```python
-projects = [
-    {
-        "name"  : "Developer Portfolio",
-        "desc"  : "Personal portfolio built from scratch",
-        "tech"  : ["HTML", "CSS"],
-        "status": "live"
-    },
-    {
-        "name"  : "???",
-        "desc"  : "Something intelligent is coming...",
-        "tech"  : ["AI", "IoT", "???"],
-        "status": "building..."
-    }
-]
+### 📊 Skill Levels
+
+```text
+Python          ████████████████░░░░   80%
+Java (DSA)      ██████████████░░░░░░   70%
+HTML / CSS      ████████████████░░░░   80%
+AI / ML         ████████████░░░░░░░░   60%
+C               ██████████░░░░░░░░░░   50%
+JavaScript      ██████░░░░░░░░░░░░░░   30%  (learning)
+MERN Stack      ████░░░░░░░░░░░░░░░░   20%  (learning)
+IoT             ████████░░░░░░░░░░░░   40%
 ```
 
 ---
 
-<!-- GitHub Stats -->
-### `~/github-stats`
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                   PROJECTS                         -->
+<!-- ═══════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SumitP07&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitP07&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" height="160" />
-</p>
+### 🚀 Projects
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SumitP07&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" height="160" />
-</p>
+<div align="center">
 
----
+| 🗂️ Project | 📝 Description | 🔧 Tech Stack | 🔗 Status |
+|:---:|:---|:---:|:---:|
+| **Developer Portfolio** | Personal portfolio built from scratch | HTML, CSS | ✅ Live |
+| **Coming Soon...** | Something intelligent is being built | AI · IoT · ? | 🔨 Building |
 
-<!-- GitHub Trophies -->
-### `~/trophies`
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SumitP07&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=6" />
-</p>
+</div>
 
 ---
 
-<!-- Contribution Snake -->
-### `~/contribution-graph`
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                 GITHUB STATS                       -->
+<!-- ═══════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SumitP07/SumitP07/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+### 📈 GitHub Stats
 
----
+<div align="center">
 
-<!-- Connect -->
-### `~/connect`
+<img src="https://github-readme-stats.vercel.app/api?username=SumitP07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4facfe&icon_color=4facfe&text_color=c9d1d9&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitP07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4facfe&text_color=c9d1d9" height="165"/>
 
-```bash
-┌──(sumit㉿github)-[~/connect]
-└─$ ls -la socials/
+</div>
 
-  linkedin   →  linkedin.com/in/sumit-purnapatre-b2669a326
-  twitter    →  x.com/_SumitP07
-  gmail      →  sumitpurnapatre@gmail.com
-  leetcode   →  leetcode.com/u/Sumit_P_07/
-```
+<div align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sumit-purnapatre-b2669a326" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/_SumitP07" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter%2FX-000000?style=flat-square&logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:sumitpurnapatre@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/Sumit_P_07/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
-  </a>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SumitP07&theme=tokyonight&hide_border=true&background=0d1117&ring=4facfe&fire=4facfe&currStreakLabel=4facfe&sideLabels=c9d1d9&dates=c9d1d9" height="165"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+%3A);Let's+build+something+intelligent+together!" />
-</p>
+<!-- ═══════════════════════════════════════════════════ -->
+<!--             ACTIVITY GRAPH (CUSTOM THEME)          -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+### 🌊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SumitP07&bg_color=0d1117&color=4facfe&line=4facfe&point=00f2fe&area=true&area_color=4facfe&hide_border=true&title_color=4facfe" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                   TROPHIES                         -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SumitP07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--               CONTRIBUTION SNAKE                   -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SumitP07/SumitP07/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--             CAPSULE STREAK BADGES                  -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+### 🎯 Currently Focused On
+
+<div align="center">
+
+![DSA](https://img.shields.io/badge/🔥_DSA_Streak-Java-4facfe?style=for-the-badge&labelColor=0d1117)
+![AI](https://img.shields.io/badge/🤖_Learning-AI%20%2F%20ML-00f2fe?style=for-the-badge&labelColor=0d1117)
+![MERN](https://img.shields.io/badge/🌐_Exploring-MERN%20Stack-4facfe?style=for-the-badge&labelColor=0d1117)
+![IoT](https://img.shields.io/badge/⚡_Building-IoT%20Systems-00f2fe?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                  CONNECT                           -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+### 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-purnapatre-b2669a326)
+[![Twitter](https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_SumitP07)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitpurnapatre@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sumit_P_07/)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                WAVE FOOTER BANNER                  -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+
+</div>

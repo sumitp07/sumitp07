@@ -12,9 +12,9 @@
 
 ---
 
-B.Tech Student · Sem IV · CSN, MH 🇮🇳
+B.Tech Student · Second Year · CSN, MH 🇮🇳
 
-- 🔭 Solving **DSA in Java** 
+- 🔭 Solving **DSA** 
 - 🌱 Learning **JavaScript** & the **MERN Stack**
 - 🤖 Into **AI / ML** and **IoT**
 - ✨ Quiet but determined

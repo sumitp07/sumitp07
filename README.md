@@ -65,12 +65,11 @@
 
 [![Housing Price Prediction](https://github-readme-stats.vercel.app/api/pin/?username=sumitp07&repo=Housing-Price-Prediction&hide_border=true&bg_color=00000000&title_color=4facfe&text_color=ffffff&icon_color=4facfe)](https://github.com/sumitp07/Housing-Price-Prediction)
 
-[![Cloud Deploy App](https://github-readme-stats.vercel.app/api/pin/?username=sumitp07&repo=cloud-deploy-appv&hide_border=true&bg_color=00000000&title_color=4facfe&text_color=ffffff&icon_color=4facfe)](https://github.com/sumitp07/cloud-deploy-appv)
+[![Cloud Deploy App](https://github-readme-stats.vercel.app/api/pin/?username=sumitp07&repo=cloud-deploy-app&hide_border=true&bg_color=00000000&title_color=4facfe&text_color=ffffff&icon_color=4facfe)](https://github.com/sumitp07/cloud-deploy-app)
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=sumitp07&repo=Portfolio_1&hide_border=true&bg_color=00000000&title_color=4facfe&text_color=ffffff&icon_color=4facfe)](https://github.com/sumitp07/Portfolio_1)
 
 </div>
-
 ---
 
 ## GitHub Stats

@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=24&duration=3000&pause=1000&color=4FACFE&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sumit+Purnapatre+%F0%9F%91%8B;Quietly+wiring+intelligence...;...one+smart+system+at+a+time." />
+<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=24&duration=3000&pause=1000&color=4FACFE&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sumit+Purnapatre+%F0%9F%91%8B;Quietly+wiring+intelligence...;AI+%2B+IoT+%2B+Full+Stack+Developer" />
 
-<img src="https://komarev.com/ghpvc/?username=sumitp07&style=flat-square&color=4facfe&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=sumitp07&style=flat-square&color=4facfe&label=Profile+Views" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-purnapatre-b2669a326)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/_SumitP07)
@@ -15,13 +15,12 @@
 
 ## About Me
 
-> B.Tech Student · Sem IV · CSN, Maharashtra 🇮🇳
+> B.Tech Student · Sem IV · CSN, Maharashtra 🇮🇳  
 
-- 🔭 Currently solving **DSA in Java**
-- 🌱 Learning **JavaScript** and the **MERN Stack**
-- 🤖 Interested in **AI / ML** and **IoT**
-- ✨ Quiet, consistent, and determined
-- 🎯 Focused on building useful and intelligent systems
+- 🔭 Solving **DSA in Java**  
+- 🌱 Learning **JavaScript & MERN Stack**  
+- 🤖 Exploring **AI / ML & IoT Systems**  
+- ✨ Quiet but consistent  
 
 ---
 
@@ -29,30 +28,30 @@
 
 <div align="center">
 
-### Languages
+### Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-f89820?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### Frontend
+### Frontend  
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-### Backend
+### Backend  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### AI / ML
+### AI / ML  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-### Tools
+### Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
@@ -62,12 +61,13 @@
 
 ## Featured Projects
 
-> Replace these placeholders with your best repositories.
-
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=sumitp07&repo=REPO_NAME_1&hide_border=true&bg_color=00000000&title_color=4facfe&text_color=858585&icon_color=4facfe)](https://github.com/sumitp07/REPO_NAME_1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=sumitp07&repo=REPO_NAME_2&hide_border=true&bg_color=00000000&title_color=4facfe&text_color=858585&icon_color=4facfe)](https://github.com/sumitp07/REPO_NAME_2)
+[![Housing Price Prediction](https://github-readme-stats.vercel.app/api/pin/?username=sumitp07&repo=Housing-Price-Prediction&hide_border=true&bg_color=00000000&title_color=4facfe&text_color=ffffff&icon_color=4facfe)](https://github.com/sumitp07/Housing-Price-Prediction)
+
+[![Cloud Deploy App](https://github-readme-stats.vercel.app/api/pin/?username=sumitp07&repo=cloud-deploy-appv&hide_border=true&bg_color=00000000&title_color=4facfe&text_color=ffffff&icon_color=4facfe)](https://github.com/sumitp07/cloud-deploy-appv)
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=sumitp07&repo=Portfolio_1&hide_border=true&bg_color=00000000&title_color=4facfe&text_color=ffffff&icon_color=4facfe)](https://github.com/sumitp07/Portfolio_1)
 
 </div>
 
@@ -77,9 +77,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitp07&hide_border=true&background=00000000&ring=4facfe&fire=4facfe&currStreakLabel=4facfe&sideLabels=858585&dates=858585&stroke=4facfe20" height="150" />
-<img src="https://github-readme-stats.vercel.app/api?username=sumitp07&show_icons=true&hide_border=true&bg_color=00000000&title_color=4facfe&text_color=858585&icon_color=4facfe&count_private=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitp07&layout=compact&hide_border=true&bg_color=00000000&title_color=4facfe&text_color=858585" height="150" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitp07&hide_border=true&background=00000000&ring=4facfe&fire=4facfe&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=4facfe20" height="150"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sumitp07&show_icons=true&hide_border=true&bg_color=00000000&title_color=4facfe&text_color=ffffff&icon_color=4facfe&count_private=true" height="150"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitp07&layout=compact&hide_border=true&bg_color=00000000&title_color=4facfe&text_color=ffffff" height="150"/>
 
 </div>
 
@@ -96,12 +98,12 @@
 ## LeetCode Stats
 
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/Sumit_P_07?theme=dark&font=Geist%20Mono&ext=contest&border=0&radius=10" height="180" />
+<img src="https://leetcard.jacoblin.cool/Sumit_P_07?theme=dark&font=Geist%20Mono&ext=contest&border=0&radius=10" height="180"/>
 </div>
 
 ---
 
-## Snake Animation
+## Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/sumitp07/sumitp07/output/github-contribution-grid-snake-dark.svg" />
